@@ -12,3 +12,20 @@ object Vehicle extends App{
   println(bike())
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
